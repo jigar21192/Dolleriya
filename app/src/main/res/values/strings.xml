@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dolleriya</string>
+
+    <string name="banner_ad_server_list_unit_id">ca-app-pub-7239465589934297/5547310150</string>
+    <string name="banner_ad_server_list_unit_id3">ca-app-pub-1485951990172561/6377972256</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-1485951990172561/8620992211</string>
+</resources>
